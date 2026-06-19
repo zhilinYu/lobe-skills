@@ -1,0 +1,19 @@
+# Obsidian Vault 配置
+
+vault:
+  path: "/Users/apple/Library/Mobile Documents/iCloud~md~obsidian/Documents/收藏夹/"
+  subdirectories:
+    - 今日头条
+    - 小红书
+    - B站
+    - 知乎
+    - 公众号
+    - 其他
+    - 微信
+
+file_naming: "YYYY-MM-DD-标题.md"
+
+metadata:
+  auto_tag: true
+  max_tags: 5
+  rating_default: ⭐

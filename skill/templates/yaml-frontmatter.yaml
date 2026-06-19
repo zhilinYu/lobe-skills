@@ -1,0 +1,15 @@
+# Obsidian 收藏笔记 YAML 模板
+# 每条收藏笔记自动生成以下元数据
+
+title: "文章/视频标题"
+source: "来源平台"  # 今日头条/小红书/B站/知乎/公众号/抖音/其他
+url: "原始链接"
+tags:
+  - 技术类: Obsidian, Claude, AI, 开源
+  - 投资类: 股票, 理财, 技术分析
+  - 生活类: 副业, 效率, 知识管理
+  - 平台类: 今日头条, 小红书, B站
+collected: "2026-06-19"   # 收藏日期
+executed: false            # 是否已落地执行
+executed_summary: ""       # 执行摘要
+rating: ⭐                  # 评分 1-5
